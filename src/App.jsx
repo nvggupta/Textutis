@@ -43,7 +43,7 @@ function App() {
         <p>{characterCount}</p>
       </div>
       <label>Preview</label>
-      <div>{}</div>
+      <div>{text}</div>
     </>
   );
 }
